@@ -1,5 +1,6 @@
 # ArraysAndOperators
----
+
+
 ## ArrayOfTreasure
 ### Summary: 
 I created a boolean array with five elements all initialized to false. This is a "map". I then tell the user to pick a number 1-5, which 
